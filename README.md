@@ -6,4 +6,4 @@ Given data on individuals who purchased a treadmill at a CardioGoodFitness retai
 
 
 ![](/images/Cardio_Good_Fitness_Heatmap.png)
-![Image](/images/Cardio_Good_Fitness_Miles_Income.png)
+![Image](/images/Cardio_Good_Fitness_Miles_Income.jpeg)
