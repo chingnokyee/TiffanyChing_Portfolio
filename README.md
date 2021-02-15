@@ -5,5 +5,5 @@ Portfolio of Tiffany Ching
 Given data on individuals who purchased a treadmill at a CardioGoodFitness retail store during the prior three months. Exploratory data analysis is performed on the dataset for analysing the customer profile. Recommendations for Cardio Good Fitness management to target new customer are provide at the end.
 
 
-![](images/Cardio_Good_Fitness_Heatmap.png)
-![Image](/images/Cardio_Good_Fitness_Miles_Income.jpg)
+![](images/Cardio_Good_Fitness_Heatmap.png =250x)
+![Image](/images/Cardio_Good_Fitness_Miles_Income.jpg =100x)
